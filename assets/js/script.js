@@ -59,7 +59,7 @@ clearScore.addEventListener('click', function () {
     totalFlips = 0
     totalHeads = 0
     totalTails = 0
-    outcome.textContent = "Let's Get Flipping"
+    outcome.textContent = "Let's Get Rolling!"
 
     // TODO: Update the scoreboard (same logic as in flip button click handler)
     headsCount.textContent = totalHeads
